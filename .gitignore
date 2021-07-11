@@ -1,0 +1,11 @@
+/node_modules
+/tests
+/console
+/migrations1
+/.env
+.idea
+/config
+/.vscode
+/yarn.lock
+/package-lock.json
+/.env.example
